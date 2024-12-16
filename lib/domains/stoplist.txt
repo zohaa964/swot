@@ -573,3 +573,4 @@ edu.kfs.edu.eg
 365.ghu.ac.kr
 m365.nycu.edu.tw
 languagesystems.edu
+sagrado.edu
