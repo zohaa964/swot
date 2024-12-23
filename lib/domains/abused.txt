@@ -1428,3 +1428,4 @@ nu.edu.eg
 bau.edu.jo
 knu.ac.kr
 ump.edu.vn
+kimpo.ac.kr
