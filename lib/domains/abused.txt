@@ -1429,3 +1429,5 @@ bau.edu.jo
 knu.ac.kr
 ump.edu.vn
 kimpo.ac.kr
+insat.u-carthage.tn
+issatm.u-carthage.tn
