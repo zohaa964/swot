@@ -1432,3 +1432,4 @@ insat.u-carthage.tn
 issatm.u-carthage.tn
 utc.edu.vn
 stu.kmu.edu.tr
+kmu.edu.tr
