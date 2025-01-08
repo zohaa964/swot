@@ -536,7 +536,6 @@ scu.edu.tw
 learner.hkuspace.hku.hk
 student.haywood.k12.nc.us
 hendrix.edu
-psu.edu
 cantho.edu.vn
 2trom.com
 bannsai.com
