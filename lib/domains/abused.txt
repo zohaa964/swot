@@ -1433,3 +1433,4 @@ utc.edu.vn
 stu.kmu.edu.tr
 kmu.edu.tr
 psu.edu
+bu.edu.eg

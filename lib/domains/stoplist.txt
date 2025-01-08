@@ -486,7 +486,6 @@ hyejeon.ac.kr
 gcu.ac.kr
 ube.edu.ec
 atc.edu
-bu.edu.eg
 swmich.edu
 student.ssc.edu
 wcstudents.wc.edu
