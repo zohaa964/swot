@@ -1434,3 +1434,4 @@ stu.kmu.edu.tr
 kmu.edu.tr
 psu.edu
 bu.edu.eg
+sookmyung.ac.kr
