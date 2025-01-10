@@ -497,7 +497,6 @@ mancheopenschool.fr
 maranatha.edu
 maricopa.edu
 martinmethodist.edu
-marun.edu.tr
 mas.bg.ac.rs
 matc.edu
 mbz.ens.sch.ae
@@ -653,7 +652,6 @@ ogr.cbu.edu.tr
 ogr.cu.edu.tr
 ogr.deu.edu.tr
 ogr.duzce.edu.tr
-iu.edu.tr
 ogr.kent.edu.tr
 ogr.ktu.edu.tr
 ogr.sakarya.edu.tr
@@ -672,7 +670,6 @@ oshs.edu.ba
 otp39.ru
 owls.williamwoods.edu
 paaet.edu.kw
-pace.edu
 palermo.edu
 palloimre.ro
 palomar.edu
@@ -1380,7 +1377,7 @@ daegu.ac.kr
 alumnos.cecyteg.edu.mx
 koreatech.ac.kr
 usal.es
-u.tsukuba.ac.jp
+tsukuba.ac.jp
 unsaac.edu.pe
 yrdsb.ca
 estudante.ifb.edu.br
@@ -1431,3 +1428,9 @@ ump.edu.vn
 kimpo.ac.kr
 insat.u-carthage.tn
 issatm.u-carthage.tn
+utc.edu.vn
+stu.kmu.edu.tr
+kmu.edu.tr
+psu.edu
+bu.edu.eg
+sookmyung.ac.kr
