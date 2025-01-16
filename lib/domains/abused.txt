@@ -527,7 +527,6 @@ uzem.education
 tranquillity.ee
 acu.edu.eg
 agri.aru.edu.eg
-aiet.edu.eg
 aiu.edu.eg
 akhbaracademy.edu.eg
 alex3.moe.edu.eg
