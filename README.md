@@ -7,8 +7,6 @@ JetBrains uses this **swot** repository to grant free licenses for JetBrains too
 
 **Please notice that some email domains were abused in the past, and we don't trust them now**. The list of such domains is in the file https://github.com/JetBrains/swot/blob/master/lib/domains/abused.txt. If you are a student with email address in an abused domain, please request your free license with GitHub or ISIC authentication at **GitHub** or **ISIC** tabs at https://www.jetbrains.com/shop/eform/students. Teachers can request their licenses with their official documents, too (**Official Document** tab at https://www.jetbrains.com/shop/eform/students.
 
-If you believe that a domain is in the list of abused ones by mistake, please email us at community-support@jetbrains.com.
-
 ## Which educational institutions can be added to the repository?
 
 Your pull request for adding a new email domain to the repository will be satisfied if all of the conditions below are met:
