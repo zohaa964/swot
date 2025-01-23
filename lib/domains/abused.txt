@@ -219,11 +219,9 @@ alabama.edu
 alu.comillas.edu
 alumni.esade.edu
 alumno.utesa.edu
-america.edu
 apus.edu
 au.edu
 aub.edu
-australia.edu
 aya.yale.edu
 azwestern.edu
 barstow.edu
@@ -357,7 +355,6 @@ my.monroeccc.edu
 my.palmbeachstate.edu
 my.riohondo.edu
 my.sanjuancollege.edu
-my.scccd.edu
 my.smccd.edu
 my.stchas.edu
 my.stvt.edu

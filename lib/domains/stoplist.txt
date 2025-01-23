@@ -603,3 +603,5 @@ hcdsol.tech
 aik.edu.kg
 tcdsb.ca
 emds.edu.pt
+australia.edu
+america.edu
