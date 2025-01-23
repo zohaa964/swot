@@ -562,7 +562,6 @@ ipe.buet.ac.bd
 caa.columbia.edu
 itc.edu.kh
 o365.lhu.edu.tw
-itc.ac.kr
 stu.cute.edu.tw
 edu.kfs.edu.eg
 365.ghu.ac.kr
@@ -605,3 +604,4 @@ tcdsb.ca
 emds.edu.pt
 australia.edu
 america.edu
+cpu.edu.kg
