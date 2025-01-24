@@ -407,7 +407,6 @@ sacsites.csus.edu
 sanjuancollege.edu
 sbcc.edu
 scc.stanly.edu
-scccd.edu
 sfcollege.edu
 sharif.edu
 sheridan.edu
