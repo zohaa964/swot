@@ -108,7 +108,6 @@ libertadores.edu.co
 mail.escuelaing.edu.co
 mail.udes.edu.co
 o365.unab.edu.co
-poligran.edu.co
 soy.sena.edu.co
 tau.usbmed.edu.co
 tecnocomfenalco.edu.co
