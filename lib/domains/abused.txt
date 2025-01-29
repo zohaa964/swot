@@ -67,7 +67,6 @@ ddsbstudent.ca
 lethbridgecollege.ca
 mohawkcollege.ca
 my.centennialcollege.ca
-myseneca.ca
 share.epsb.ca
 slc.ubc.ca
 student.concordia.ab.ca
