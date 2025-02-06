@@ -614,7 +614,6 @@ aaks.dk
 kana.edu.kg
 h.edu.kg
 live
-top
 oshtu.me
 oshsu.email
 kuosat.tech
@@ -624,3 +623,10 @@ upscmd.tech
 poly.edu.rs
 kun.edu.kg
 my.csun.edu
+ust.edu.kg
+kousat.org
+kousat.tech
+uest.edu.kg
+c5.hk
+aynu.me
+top
