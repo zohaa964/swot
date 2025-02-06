@@ -621,3 +621,6 @@ kuosat.tech
 acu.edu.kg
 ink
 upscmd.tech
+poly.edu.rs
+kun.edu.kg
+my.csun.edu
