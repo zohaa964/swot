@@ -1336,3 +1336,4 @@ ptu.ac.kr
 est.emi.edu.bo
 usp.ac.fj
 me
+dit.ac.kr
