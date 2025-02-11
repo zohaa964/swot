@@ -170,7 +170,6 @@ ufidelitas.ac.cr
 student.unicv.edu.cv
 schools.ac.cy
 st.schools.ac.cy
-fh-muenster.de
 est.intec.edu.do
 est.itsc.edu.do
 est.uasd.edu.do
