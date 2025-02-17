@@ -240,7 +240,6 @@ campus.mccd.edu
 case.edu
 cc.peralta.edu
 ccc.edu
-ccsf.edu
 chemeketa.edu
 cit.edu
 clackamas.edu
