@@ -1345,3 +1345,4 @@ upm.edu.my
 uptc.edu.co
 bu.ac.kr
 niet.co.in
+kmitl.ac.th
