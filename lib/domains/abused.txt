@@ -1342,3 +1342,4 @@ jmail.ac.kr
 epgunheval.edu.pe
 iskolarngbayan.pup.edu.ph
 upm.edu.my
+uptc.edu.co
