@@ -1345,3 +1345,6 @@ uptc.edu.co
 bu.ac.kr
 niet.co.in
 kmitl.ac.th
+ksiu.edu.eg
+msgsu.edu.tr
+luanar.ac.mw
