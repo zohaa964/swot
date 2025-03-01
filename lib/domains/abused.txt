@@ -1348,3 +1348,6 @@ kmitl.ac.th
 ksiu.edu.eg
 msgsu.edu.tr
 luanar.ac.mw
+unfv.edu.pe
+kpu.ac.kr
+uptecamac.edu.mx
