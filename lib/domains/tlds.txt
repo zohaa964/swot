@@ -1,4 +1,3 @@
-ac.bd
 ac.be
 ac.gg
 ac.gn

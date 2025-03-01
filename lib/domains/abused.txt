@@ -40,6 +40,7 @@ oshs.edu.ba
 bup.edu.bd
 green.ac.bd
 me.buet.ac.bd
+buet.ac.bd
 vu.edu.bd
 bub.edu.bh
 gulfuniversity.edu.bh
