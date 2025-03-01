@@ -1351,3 +1351,4 @@ luanar.ac.mw
 unfv.edu.pe
 kpu.ac.kr
 uptecamac.edu.mx
+iccs.ac.in
