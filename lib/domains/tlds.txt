@@ -8,7 +8,6 @@ ac.ni
 ac.om
 ac.pg
 ac.pr
-ac.ru
 ac.rw
 ac.sz
 ac.yu
