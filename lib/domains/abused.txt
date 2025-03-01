@@ -1355,3 +1355,4 @@ uptecamac.edu.mx
 iccs.ac.in
 uniopet.edu.br
 dav.edu.vn
+hcmiu.edu.vn
