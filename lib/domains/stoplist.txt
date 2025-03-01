@@ -660,3 +660,4 @@ aue.ae
 cug.ac.in
 live.hcu.ac.th
 outlook.up.edu.ph
+dongeui.ms.kr
