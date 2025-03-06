@@ -662,3 +662,4 @@ live.hcu.ac.th
 outlook.up.edu.ph
 dongeui.ms.kr
 duksung.kr
+stu.owosso.k12.mi.us
