@@ -1367,3 +1367,5 @@ ufpr.br
 ntthnue.edu.vnu
 gujgov.edu.in
 senacsp.edu.br
+st.haui.edu.vn
+ms.hanu.edu.vn

@@ -667,3 +667,5 @@ infochat.edu.pl
 skei.edu.in
 fzs.unsa.ba
 scpc.edu.in
+due.edu.vn
+aschool.edu.vn
