@@ -215,6 +215,7 @@ alabama.edu
 alu.comillas.edu
 alumno.utesa.edu
 apus.edu
+atc.edu
 au.edu
 aub.edu
 aya.yale.edu
