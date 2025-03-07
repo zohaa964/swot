@@ -665,3 +665,5 @@ duksung.kr
 stu.owosso.k12.mi.us
 infochat.edu.pl
 skei.edu.in
+fzs.unsa.ba
+scpc.edu.in
