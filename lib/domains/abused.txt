@@ -1372,3 +1372,4 @@ st.haui.edu.vn
 ms.hanu.edu.vn
 pdm.ac.in
 academia.umb.edu.co
+ug.edu.ec
