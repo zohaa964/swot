@@ -1365,7 +1365,7 @@ unibe.edu.do
 bachkhoahanoi.edu.vn
 o365.fayoum.edu.eg
 ufpr.br
-ntthnue.edu.vnu
+ntthnue.edu.vn
 gujgov.edu.in
 senacsp.edu.br
 st.haui.edu.vn
@@ -1375,3 +1375,4 @@ academia.umb.edu.co
 ug.edu.ec
 uniajc.edu.co
 sjbit.edu.in
+vnu.edu.vn
