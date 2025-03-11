@@ -675,3 +675,4 @@ fzs.unsa.ba
 outlook.rmutr.ac.th
 kr.ac
 ali.edu.pl
+mu.ac.kr
