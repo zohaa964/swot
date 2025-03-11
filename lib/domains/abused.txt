@@ -188,7 +188,6 @@ univ-emir.dz
 univ-ghardaia.dz
 donbosco.edu.ec
 espoch.edu.ec
-espol.edu.ec
 est.umet.edu.ec
 est.ups.edu.ec
 estudiantes.cordillera.edu.ec
@@ -1365,8 +1364,18 @@ unibe.edu.do
 bachkhoahanoi.edu.vn
 o365.fayoum.edu.eg
 ufpr.br
-ntthnue.edu.vnu
+ntthnue.edu.vn
 gujgov.edu.in
 senacsp.edu.br
 st.haui.edu.vn
 ms.hanu.edu.vn
+pdm.ac.in
+academia.umb.edu.co
+ug.edu.ec
+uniajc.edu.co
+sjbit.edu.in
+vnu.edu.vn
+uem.edu.in
+uacj.mx
+stu.ocsb.ca
+um5.ac.ma

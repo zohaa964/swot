@@ -543,7 +543,6 @@ huttoisd.org
 skhhcps.edu.hk
 ae1odemira.edu.pt
 uno-r.edu.ph
-uib.edu
 sonoranschools.org
 hanma.kr
 alumni.ied.edu
@@ -668,3 +667,9 @@ fzs.unsa.ba
 scpc.edu.in
 due.edu.vn
 aschool.edu.vn
+uva.br
+alumno.cch.unam.mx
+edisonschools.edu.vn
+nuc.edu.kg
+fzs.unsa.ba
+outlook.rmutr.ac.th
