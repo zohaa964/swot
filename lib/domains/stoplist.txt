@@ -678,3 +678,5 @@ in.ac
 ali.edu.pl
 mu.ac.kr
 alazhar.edu.ps
+mf.unsa.ba
+apps.nmims.edu.in
