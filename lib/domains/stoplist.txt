@@ -680,3 +680,4 @@ mu.ac.kr
 alazhar.edu.ps
 mf.unsa.ba
 apps.nmims.edu.in
+universityofmanagement.sn
