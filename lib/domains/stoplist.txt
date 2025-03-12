@@ -674,5 +674,7 @@ nuc.edu.kg
 fzs.unsa.ba
 outlook.rmutr.ac.th
 kr.ac
+in.ac
 ali.edu.pl
 mu.ac.kr
+alazhar.edu.ps
