@@ -1382,3 +1382,4 @@ fmu.edu.br
 wellesley.edu
 york.edu
 std.antalya.edu.tr
+student.hywoman.ac.kr
