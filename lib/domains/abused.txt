@@ -1380,3 +1380,4 @@ stu.ocsb.ca
 um5.ac.ma
 fmu.edu.br
 wellesley.edu
+york.edu
