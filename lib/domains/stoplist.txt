@@ -681,3 +681,4 @@ students.sdcsc.k12.in.us
 xzc.edu.pl
 ea.ufpa.br
 iced.ufpa.br
+stu.sxpi.edu.cn
