@@ -682,3 +682,4 @@ xzc.edu.pl
 ea.ufpa.br
 iced.ufpa.br
 stu.sxpi.edu.cn
+mus.edu.rs
