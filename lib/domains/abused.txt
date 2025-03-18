@@ -1060,7 +1060,6 @@ student.riphah.edu.pk
 students.fui.edu.pk
 students.uettaxila.edu.pk
 uaf.edu.pk
-ucp.edu.pk
 uet.edu.pk
 uoh.edu.pk
 web.gcu.edu.pk
@@ -1383,3 +1382,4 @@ wellesley.edu
 york.edu
 std.antalya.edu.tr
 student.hywoman.ac.kr
+yapenhasbekasi.sch.id
