@@ -73,7 +73,7 @@ student.concordia.ab.ca
 unb.ca
 uregina.ca
 workschool.ca
-yrdsb.ca
+gapps.yrdsb.ca
 unilu.ac.cd
 cf
 fh-htachur.ch
@@ -1386,3 +1386,4 @@ yapenhasbekasi.sch.id
 cibertec.edu.pe
 singimail.rs
 edu.hanbat.ac.kr
+harding.edu
