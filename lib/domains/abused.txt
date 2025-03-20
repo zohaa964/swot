@@ -1387,3 +1387,4 @@ cibertec.edu.pe
 singimail.rs
 edu.hanbat.ac.kr
 harding.edu
+ufpa.br
