@@ -1388,3 +1388,4 @@ singimail.rs
 edu.hanbat.ac.kr
 harding.edu
 ufpa.br
+kmutt.ac.th
