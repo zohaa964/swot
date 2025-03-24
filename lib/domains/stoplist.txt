@@ -690,3 +690,5 @@ ics.ufpa.br
 chiba-c.ed.jp
 estudiante.usat.edu.pe
 mc-class.gr
+mtmcollege.in
+rsat.org.uk
