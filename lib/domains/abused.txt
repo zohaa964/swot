@@ -207,7 +207,6 @@ alu.comillas.edu
 alumno.utesa.edu
 apus.edu
 atc.edu
-au.edu
 aub.edu
 aya.yale.edu
 azwestern.edu
@@ -1384,3 +1383,4 @@ kmutt.ac.th
 univ-dbkm.dz
 nuevoleon.tecnm.mx
 whistlingwoods.net
+alumnos.viu.es
