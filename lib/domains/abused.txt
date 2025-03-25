@@ -292,7 +292,6 @@ losrios.edu
 mail.broward.edu
 mail.davistech.edu
 mail.fresnostate.edu
-mail.irsc.edu
 mail.ltcc.edu
 mail.philau.edu
 mail.pima.edu
