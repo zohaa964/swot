@@ -695,3 +695,4 @@ mc-class.gr
 mtmcollege.in
 rsat.org.uk
 altinbas.edu.tr
+mu.ac.kr
