@@ -696,3 +696,5 @@ mtmcollege.in
 rsat.org.uk
 altinbas.edu.tr
 mu.ac.kr
+stumail.zcs.k12.in.us
+dusit.ac.th
