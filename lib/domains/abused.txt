@@ -1392,3 +1392,4 @@ gsuite.bu.edu
 bu.edu
 tcdsb.ca
 uba.ar
+northweststate.edu
