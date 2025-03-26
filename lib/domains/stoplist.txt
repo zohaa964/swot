@@ -325,9 +325,11 @@ alumni.albany.edu
 alumni.anu.edu.au
 alumni.bham.ac.uk
 alumni.cmu.edu
+alum.cs.umass.edu
 alumni.conncoll.edu
 alumni.edu.vn
 alumni.gsb.stanford.edu
+alumni.fh-campuswien.ac.at
 alumni.habib.edu.pk
 alumni.imperial.ac.uk
 alumni.iu.edu
