@@ -1388,3 +1388,5 @@ idu.edu.tr
 mc-class.gr
 manipalacademyonline.edu.in
 wou.edu.my
+gsuite.bu.edu
+bu.edu
