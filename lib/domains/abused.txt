@@ -1396,3 +1396,5 @@ northweststate.edu
 exatec.tec.mx
 gator.uhd.edu
 uhd.edu
+my.csun.edu
+net.iul.edu.lb
