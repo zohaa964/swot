@@ -1393,3 +1393,4 @@ bu.edu
 tcdsb.ca
 uba.ar
 northweststate.edu
+exatec.tec.mx
