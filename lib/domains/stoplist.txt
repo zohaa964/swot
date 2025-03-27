@@ -700,3 +700,4 @@ stumail.zcs.k12.in.us
 dusit.ac.th
 nyfbox.hu
 suezuni.edu.eg
+o365.rmutp.ac.th
