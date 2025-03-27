@@ -1394,3 +1394,5 @@ tcdsb.ca
 uba.ar
 northweststate.edu
 exatec.tec.mx
+gator.uhd.edu
+uhd.edu
