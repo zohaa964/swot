@@ -502,7 +502,6 @@ alumni.bentley.edu
 altoona.k12.wi.us
 wauwatosa.k12.wi.us
 as.edu.sa
-kgu.ac.kr
 lanesville.k12.in.us
 student.umc.edu.dz
 edu.menofia.edu.eg

@@ -1398,3 +1398,5 @@ gator.uhd.edu
 uhd.edu
 my.csun.edu
 net.iul.edu.lb
+alunos.sc.senac.br
+kgu.ac.kr
