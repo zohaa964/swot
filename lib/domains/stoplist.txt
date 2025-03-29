@@ -497,7 +497,6 @@ o365.nuu.edu.tw
 o365.ntou.edu.tw
 chntheatre.edu.cn
 email.cufe.edu.cn
-mail.szpu.edu.cn
 alumni.bentley.edu
 altoona.k12.wi.us
 wauwatosa.k12.wi.us
