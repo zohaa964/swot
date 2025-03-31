@@ -1398,3 +1398,5 @@ my.csun.edu
 net.iul.edu.lb
 alunos.sc.senac.br
 kgu.ac.kr
+students.adu.ac.ae
+altinbas.edu.tr
