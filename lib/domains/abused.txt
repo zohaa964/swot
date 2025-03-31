@@ -322,7 +322,6 @@ my.browncollege.edu
 my.canyons.edu
 my.ccri.edu
 my.chamberlain.edu
-my.chattanoogastate.edu
 my.chemeketa.edu
 my.cleveland.edu
 my.columbiasc.edu
@@ -566,7 +565,6 @@ mail.uca.es
 mail.ucv.es
 stu.colegiotorremalmuerta.es
 uma.es
-upm.es
 usal.es
 amu.edu.et
 haramaya.edu.et
