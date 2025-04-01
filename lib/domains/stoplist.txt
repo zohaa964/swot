@@ -714,3 +714,5 @@ vsavm.com
 bdu.edu.et
 alu.hit.edu.cn
 ilford-school.co.uk
+edu.ac.kr
+thc.tu.edu.np

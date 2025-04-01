@@ -1400,3 +1400,5 @@ alunos.sc.senac.br
 kgu.ac.kr
 students.adu.ac.ae
 altinbas.edu.tr
+daejin.ac.kr
+studenti.uniba.it
