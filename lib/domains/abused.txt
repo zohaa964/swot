@@ -291,7 +291,7 @@ lonestar.edu
 losrios.edu
 mail.broward.edu
 mail.davistech.edu
-mail.fresnostate.edu
+fresnostate.edu
 mail.ltcc.edu
 mail.philau.edu
 mail.pima.edu
@@ -1402,3 +1402,4 @@ students.adu.ac.ae
 altinbas.edu.tr
 daejin.ac.kr
 studenti.uniba.it
+untumbes.edu.pe

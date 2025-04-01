@@ -716,3 +716,5 @@ alu.hit.edu.cn
 ilford-school.co.uk
 edu.ac.kr
 thc.tu.edu.np
+man10jakartabarat.sch.id
+fpz.hr
