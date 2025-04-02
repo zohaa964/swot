@@ -718,3 +718,4 @@ edu.ac.kr
 thc.tu.edu.np
 man10jakartabarat.sch.id
 fpz.hr
+vicaria.edu.ar
