@@ -720,3 +720,4 @@ man10jakartabarat.sch.id
 fpz.hr
 vicaria.edu.ar
 uaconcagua.cl
+kojimachi.ed.jp
