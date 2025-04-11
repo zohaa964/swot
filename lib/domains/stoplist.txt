@@ -734,3 +734,4 @@ cheonho.sen.ms.kr
 allegany.edu
 bkc.edu.vn
 skhu.ac.kr
+office365.kuas.edu.tw
