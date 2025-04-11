@@ -731,3 +731,6 @@ alanyauniversity.edu.tr
 cccu.edu.hk
 cheonho.sen.ms.kr
 365.reru.ac.th
+allegany.edu
+bkc.edu.vn
+skhu.ac.kr
