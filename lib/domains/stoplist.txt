@@ -736,3 +736,5 @@ bkc.edu.vn
 skhu.ac.kr
 office365.kuas.edu.tw
 ms.uki.ac.id
+tdp.edu.kg
+ds.edu.kg
