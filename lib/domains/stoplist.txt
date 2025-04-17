@@ -743,3 +743,4 @@ mcu.edu.kg
 ds.edu.kg
 edu.deal
 unifacisa.edu.br
+akshara.ac.in
