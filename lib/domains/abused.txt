@@ -76,15 +76,6 @@ unilu.ac.cd
 cf
 fh-htachur.ch
 selise.ch
-academicos.uamericas.cl
-alumnos.santotomas.cl
-alumnos.utalca.cl
-correoaiep.cl
-duocuc.cl
-estudiantesunap.cl
-inacapmail.cl
-udec.cl
-usanandres.cl
 seu.edu.cn
 campusucc.edu.co
 campusvirtual.aunarvillavicencio.edu.co
