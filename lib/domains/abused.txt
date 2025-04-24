@@ -591,7 +591,6 @@ edu.hmu.gr
 ee.duth.gr
 email.axc.edu.gr
 int.edu.gr
-uniwa.gr
 uowm.gr
 upnet.gr
 campoalegre.edu.gt
