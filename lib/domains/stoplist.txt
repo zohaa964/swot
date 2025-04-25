@@ -216,7 +216,6 @@ stu.hcnu.edu.cn
 stu.hebmu.edu.cn
 stu.hnie.edu.cn
 stu.hnucm.edu.cn
-stu.hrbust.edu.cn
 stu.hubu.edu.cn
 stu.huel.edu.cn
 stu.jhun.edu.cn
@@ -746,3 +745,4 @@ akshara.ac.in
 wawtech.edu.pl
 iut.edu.kg
 kk.edu.rs
+msu.edu.kg
