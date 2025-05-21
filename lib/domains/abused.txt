@@ -1407,3 +1407,4 @@ eshte.pt
 o6u.edu.eg
 usalesiana.edu.bo
 usd.ac.id
+hosei.ac.jp
