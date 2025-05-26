@@ -523,7 +523,7 @@ nu.edu.eg
 oi.edu.eg
 pharm.bsu.edu.eg
 phyd.psu.edu.eg
-pme.suezuni.edu.eg
+suezuni.edu.eg
 psu.edu.eg
 sh-eng.menofia.edu.eg
 sharkia1.moe.edu.eg
