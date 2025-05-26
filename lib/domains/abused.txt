@@ -76,15 +76,6 @@ unilu.ac.cd
 cf
 fh-htachur.ch
 selise.ch
-academicos.uamericas.cl
-alumnos.santotomas.cl
-alumnos.utalca.cl
-correoaiep.cl
-duocuc.cl
-estudiantesunap.cl
-inacapmail.cl
-udec.cl
-usanandres.cl
 seu.edu.cn
 campusucc.edu.co
 campusvirtual.aunarvillavicencio.edu.co
@@ -382,7 +373,6 @@ sacsites.csus.edu
 sanjuancollege.edu
 sbcc.edu
 scc.stanly.edu
-sfcollege.edu
 sharif.edu
 sheridan.edu
 si.edu
@@ -533,7 +523,7 @@ nu.edu.eg
 oi.edu.eg
 pharm.bsu.edu.eg
 phyd.psu.edu.eg
-pme.suezuni.edu.eg
+suezuni.edu.eg
 psu.edu.eg
 sh-eng.menofia.edu.eg
 sharkia1.moe.edu.eg
@@ -578,7 +568,6 @@ mjj.edu.ge
 mziuri.edu.ge
 students.gov.ge
 anu.edu.gh
-knust.edu.gh
 live.gctu.edu.gh
 st.uew.edu.gh
 upsamail.edu.gh
@@ -591,7 +580,6 @@ edu.hmu.gr
 ee.duth.gr
 email.axc.edu.gr
 int.edu.gr
-uniwa.gr
 uowm.gr
 upnet.gr
 campoalegre.edu.gt
@@ -688,8 +676,6 @@ uopstd.edu.jo
 zu.edu.jo
 tsukuba.ac.jp
 univ.seitoku.ac.jp
-mku.ac.ke
-mylife.mku.ac.ke
 stu.kemu.ac.ke
 student.maseno.ac.ke
 student.mksu.ac.ke
@@ -835,7 +821,6 @@ alumnos365.xoc.uam.mx
 anahuac.mx
 aulamexiquense.mx
 colegio-venecia.edu.mx
-comunidad.unam.mx
 conalep.edu.mx
 conalepmex.edu.mx
 estudiantes.uv.mx
@@ -1360,8 +1345,8 @@ um5.ac.ma
 fmu.edu.br
 wellesley.edu
 york.edu
-std.antalya.edu.tr
-student.hywoman.ac.kr
+antalya.edu.tr
+hywoman.ac.kr
 yapenhasbekasi.sch.id
 cibertec.edu.pe
 singimail.rs
@@ -1410,3 +1395,18 @@ baraodemaua.edu.br
 jak.lv
 hpn.edu.vn
 madisoncity.k12.al.us
+mail.fresnostate.edu
+uettaxila.edu.pk
+sdu.ac.kr
+amu.edu.pl
+lausd.net
+cbit.org.in
+osloskolen.no
+skhu.ac.kr
+eshte.pt
+o6u.edu.eg
+usalesiana.edu.bo
+usd.ac.id
+hosei.ac.jp
+skku.edu
+madisoncollege.edu
