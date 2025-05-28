@@ -1171,7 +1171,6 @@ retired.bogazici.edu.tr
 sivas.edu.tr
 st.maltepe.edu.tr
 st.uskudar.edu.tr
-std.antalya.edu.tr
 std.izu.edu.tr
 std.neu.edu.tr
 std.nisantasi.edu.tr
@@ -1343,7 +1342,6 @@ um5.ac.ma
 fmu.edu.br
 wellesley.edu
 york.edu
-antalya.edu.tr
 hywoman.ac.kr
 yapenhasbekasi.sch.id
 cibertec.edu.pe
