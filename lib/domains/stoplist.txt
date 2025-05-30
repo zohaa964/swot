@@ -350,7 +350,6 @@ student.miyazaki-c.ed.jp
 alumni.berklee.edu
 alumni.cuhk.net
 uagraria.edu.ec
-connect.hku.hk
 graduate.hku.hk
 ljb.edu.hk
 student.isf.edu.hk
