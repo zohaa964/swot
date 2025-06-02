@@ -749,3 +749,7 @@ bu.edu.eg
 rhedu.org.il
 mail.school3.mk.ua
 aluno.santamarcelina.edu.br
+fpm.dnulive.dp.ua
+stu.60edu.kz
+stu.lyceegalilee.fr
+blue.knue.ac.kr
