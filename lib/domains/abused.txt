@@ -1420,3 +1420,4 @@ deltauniv.edu.eg
 ulht.pt
 dgu.ac.kr
 cefet-rj.br
+poltera.ac.id
