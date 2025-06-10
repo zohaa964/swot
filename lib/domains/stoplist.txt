@@ -758,3 +758,5 @@ dkps.uniburgas.bg
 acc.msu.ac.th
 hxu.ac.cn
 ena.edu.ci
+foxespiece.org.uk
+ds.lib.uw.edu
