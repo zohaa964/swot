@@ -764,3 +764,4 @@ gpraj.gujgov.edu.in
 mpi.dk
 bnu.edu.eg
 member.scau.ac.kr
+fzu.edu.kg
