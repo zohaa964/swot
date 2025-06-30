@@ -1426,3 +1426,4 @@ my.csun.edu
 csun.edu
 isbstudent.comsats.edu.pk
 comsats.edu.pk
+mcru.ac.th
