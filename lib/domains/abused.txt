@@ -1175,7 +1175,6 @@ stu.khas.edu.tr
 stu.kmu.edu.tr
 student.cankaya.edu.tr
 student.ciu.edu.tr
-subu.edu.tr
 ufuk.edu.tr
 ybu.edu.tr
 batce.edu.tt
