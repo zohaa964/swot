@@ -1426,3 +1426,5 @@ nur.edu.bo
 fayettetech.edu
 my.csun.edu
 csun.edu
+isbstudent.comsats.edu.pk
+comsats.edu.pk
