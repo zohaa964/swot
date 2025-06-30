@@ -585,7 +585,6 @@ ink
 upscmd.tech
 poly.edu.rs
 kun.edu.kg
-my.csun.edu
 ust.edu.kg
 kousat.org
 kousat.tech
@@ -766,3 +765,4 @@ bnu.edu.eg
 member.scau.ac.kr
 fzu.edu.kg
 uat.edu.ng
+wxc.edu.kg

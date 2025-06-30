@@ -1424,3 +1424,5 @@ gujgov.edu.in
 pomona.edu
 nur.edu.bo
 fayettetech.edu
+my.csun.edu
+csun.edu
