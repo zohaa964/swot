@@ -770,4 +770,4 @@ gf.ukim.edu.mk
 student.mf.ukim.edu.mk
 khi.iba.edu.pk
 365.pnru.ac.th
-bp.mcleon.de
+mcleon.de
