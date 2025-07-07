@@ -770,3 +770,4 @@ student.mf.ukim.edu.mk
 khi.iba.edu.pk
 365.pnru.ac.th
 mcleon.de
+ulusiada.pt
