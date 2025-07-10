@@ -779,3 +779,4 @@ alumni.marymount.edu
 horizon.uoie.dk
 lo2.wroc.pl
 iumafis.edu.co
+me.mcu.edu.tw
