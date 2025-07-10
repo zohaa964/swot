@@ -21,7 +21,6 @@ edu.al
 edu.az
 edu.bb
 edu.bs
-edu.bz
 edu.ck
 edu.cn
 edu.dz
