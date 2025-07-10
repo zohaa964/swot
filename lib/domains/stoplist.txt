@@ -778,3 +778,4 @@ gsuite.unbosque.edu.co
 alumni.marymount.edu
 horizon.uoie.dk
 lo2.wroc.pl
+iumafis.edu.co
