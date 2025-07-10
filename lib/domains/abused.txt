@@ -1439,7 +1439,6 @@ mokwon.ac.kr
 abes.ac.in
 acc.edu.bz
 adamson.edu.ph
-aealvalade.edu.pt
 aebarroselas.edu.pt
 aedfl.edu.pt
 aefm.edu.pt
@@ -1498,3 +1497,6 @@ upec.edu.ec
 uspace.hk.edu.tw
 utla.edu.sv
 xmu.edu.my
+sju.ac.kr
+student.uin-suka.ac.id
+office.pohang.ac.kr
