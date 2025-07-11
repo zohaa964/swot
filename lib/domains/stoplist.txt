@@ -782,3 +782,4 @@ iumafis.edu.co
 me.mcu.edu.tw
 aealvalade.edu.pt
 global.ac.kr
+niu.edu
