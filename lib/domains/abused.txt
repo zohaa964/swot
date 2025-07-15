@@ -1503,3 +1503,4 @@ office.pohang.ac.kr
 office.ui.ac.id
 studenti.unige.it
 udd.cl
+student.ub.ac.id
