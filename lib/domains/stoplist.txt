@@ -787,3 +787,4 @@ uin-suska.ac.id
 huest.edu.kg
 jp.edu.kg
 kit.edu.kg
+utesur.edu.do
