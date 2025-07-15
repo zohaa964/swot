@@ -785,3 +785,5 @@ global.ac.kr
 niu.edu
 uin-suska.ac.id
 huest.edu.kg
+jp.edu.kg
+kit.edu.kg
