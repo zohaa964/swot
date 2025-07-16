@@ -1504,3 +1504,4 @@ office.ui.ac.id
 studenti.unige.it
 udd.cl
 ub.ac.id
+asu.edu.ph
