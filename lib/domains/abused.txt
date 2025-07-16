@@ -1505,3 +1505,4 @@ studenti.unige.it
 udd.cl
 ub.ac.id
 asu.edu.ph
+osan.ac.kr
