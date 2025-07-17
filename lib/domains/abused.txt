@@ -1509,3 +1509,4 @@ osan.ac.kr
 cku.ac.kr
 dac.unicamp.br
 unicamp.br
+upse.edu.ec
